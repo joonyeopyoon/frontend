@@ -8,7 +8,7 @@ function RootApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>sangle docs</title>
+        <title>User Service</title>
       </Head>
       <AuthProvider>
         <Component {...pageProps} />
