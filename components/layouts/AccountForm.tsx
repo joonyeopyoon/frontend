@@ -58,12 +58,12 @@ const LoginForm = () => {
   return (
     <FormWrapper onFinish={handleSubmit}>
       <div>
-        <label htmlFor="email">Cat Email</label>
+        <label htmlFor="email">Email</label>
         <br />
         <Input name="email" value={email} onChange={handleEmail} required />
       </div>
       <div>
-        <label htmlFor="password">Cat Password</label>
+        <label htmlFor="password">Password</label>
         <br />
         <Input
           name="password"

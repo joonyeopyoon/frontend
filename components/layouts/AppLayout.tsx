@@ -207,7 +207,7 @@ const AppLayout = ({ children, isSignup = false }: Props): JSX.Element => {
               <AccountForm />
             )}
           </Content>
-          <ZFooter>C.I.C ©2021 Created by Yoon Sang Seok</ZFooter>
+          <ZFooter>C.I.C ©2021 Created by wwjoon</ZFooter>
         </Layout>
       </ZLayout>
     </>

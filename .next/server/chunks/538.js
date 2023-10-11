@@ -114,7 +114,7 @@ const LoginForm = () => {
     children: [/*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
       children: [/*#__PURE__*/jsx_runtime_.jsx("label", {
         htmlFor: "email",
-        children: "Cat Email"
+        children: "Email"
       }), /*#__PURE__*/jsx_runtime_.jsx("br", {}), /*#__PURE__*/jsx_runtime_.jsx(external_antd_.Input, {
         name: "email",
         value: email,
@@ -124,7 +124,7 @@ const LoginForm = () => {
     }), /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
       children: [/*#__PURE__*/jsx_runtime_.jsx("label", {
         htmlFor: "password",
-        children: "Cat Password"
+        children: "Password"
       }), /*#__PURE__*/jsx_runtime_.jsx("br", {}), /*#__PURE__*/jsx_runtime_.jsx(external_antd_.Input, {
         name: "password",
         type: "password",
@@ -381,7 +381,7 @@ const AppLayout = ({
             children: children
           }) : /*#__PURE__*/jsx_runtime_.jsx(AccountForm, {})
         }), /*#__PURE__*/jsx_runtime_.jsx(ZFooter, {
-          children: "C.I.C \xA92021 Created by Yoon Sang Seok"
+          children: "C.I.C \xA92021 Created by wwjoon"
         })]
       })]
     })
