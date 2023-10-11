@@ -381,7 +381,7 @@ const AppLayout = ({
             children: children
           }) : /*#__PURE__*/jsx_runtime_.jsx(AccountForm, {})
         }), /*#__PURE__*/jsx_runtime_.jsx(ZFooter, {
-          children: "C.I.C \xA92021 Created by wwjoon"
+          children: "User \xA92021 Created by wwjoon"
         })]
       })]
     })

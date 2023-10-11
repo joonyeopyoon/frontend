@@ -44,7 +44,7 @@ const Signup = () => {
   return (
     <>
       <Head>
-        <title>C.I.C</title>
+        <title>User</title>
       </Head>
       <AppLayout isSignup={true}>
         <Form onFinish={handleSubmit}>
