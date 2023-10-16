@@ -8,7 +8,7 @@ function RootApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>User Service</title>
+        <title>community</title>
       </Head>
       <AuthProvider>
         <Component {...pageProps} />

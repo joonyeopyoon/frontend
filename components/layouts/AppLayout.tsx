@@ -195,7 +195,7 @@ const AppLayout = ({ children, isSignup = false }: Props): JSX.Element => {
             }}
           >
             <img width={43} height={"auto"} src="/nestjs.svg" />
-            <span style={{ marginLeft: 10 }}>User Information</span>
+            <span style={{ marginLeft: 10 }}>Community</span>
           </ZHeader>
 
           <Content style={{ margin: "45px 16px 0" }}>
